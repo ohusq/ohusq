@@ -1,4 +1,6 @@
-<div align="center">
-    <img height="450px" src="./_5f27edfe-4f76-457a-ae68-d1ca1b0101b1.jpg"/>
-</div>
-<h3 align="center">don't take my banner serious :)</h3>
+---  
+    1. be ohusq
+    2. learn C++, LUA and Python.
+    3. profit
+---
+# Only code when you're bored and make it `CLEAN`
